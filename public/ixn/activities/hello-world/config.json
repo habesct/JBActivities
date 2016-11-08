@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.0",
    "metaData": {
-       "icon": "images/fico_40.png",
-       "iconSmall": "images/fico_15.png",
+       "icon": "images/freal_40.png",
+       "iconSmall": "images/freal_15.png",
        "category": "message",
 	   "isConfigured":true
    },
