@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.0",
    "metaData": {
-       "icon": "images/stanley_40.png",
-       "iconSmall": "images/stanley_15.png",
+       "icon": "images/spotify_40.png",
+       "iconSmall": "images/spotify_15.png",
        "category": "message",
 	   "isConfigured":true
    },
